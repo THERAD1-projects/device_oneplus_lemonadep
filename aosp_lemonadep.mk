@@ -27,7 +27,7 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 # Inherit Google Camera
 $(call inherit-product, vendor/oneplus/apps/lemonadep/config.mk)
 
-PRODUCT_NAME := kraken_lemonadep
+PRODUCT_NAME := aosp_lemonadep
 PRODUCT_DEVICE := lemonadep
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
