@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_lemonadep.mk
+    $(LOCAL_DIR)/aosp_lemonadep.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_lemonadep-user \
-    xtended_lemonadep-userdebug \
-    xtended_lemonadep-eng
+    aosp_lemonadep-user \
+    aosp_lemonadep-userdebug \
+    aosp_lemonadep-eng
