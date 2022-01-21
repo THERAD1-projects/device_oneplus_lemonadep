@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_lemonadep.mk
+    $(LOCAL_DIR)/ancient_lemonadep.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_lemonadep-user \
-    xtended_lemonadep-userdebug \
-    xtended_lemonadep-eng
+    ancient_lemonadep-user \
+    ancient_lemonadep-userdebug \
+    ancient_lemonadep-eng
