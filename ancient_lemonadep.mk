@@ -49,6 +49,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=OnePlus9Pro \
     PRODUCT_NAME=OnePlus9Pro_EEA \
-    PRIVATE_BUILD_DESC="redfin-user 11 SQ1A.211205.008 7888514 release-keys"
+    PRIVATE_BUILD_DESC="OnePlus9Pro-user 11   release-keys"
 
-BUILD_FINGERPRINT := "google/redfin/redfin:11/SQ1A.211205.008/7888514:user/release-keys"
+BUILD_FINGERPRINT := OnePlus/OnePlus9Pro_EEA/OnePlus9Pro:11/RKQ1.201105.002/2111112053:user/release-keys
